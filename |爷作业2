@@ -1,0 +1,5 @@
+1、为一个id="footer"的元素 下的从ul继承的li继承的a指定式样；
+2、为一个从class属性中包含icon 和green的元素 继承的 span元素指定式样；
+3、为一个从class属性为first的p元素 继承的 class属性为number的元素指定式样；
+4、为一个从id="header"的 class属性为first的li元素 继承的 a元素，指定鼠标移动到其上的式样；
+5、为一个id="result"的 li元素在鼠标移动到其上时， 继承的 class属性为btn_del的a元素设定式样；
